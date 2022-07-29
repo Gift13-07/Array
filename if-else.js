@@ -5,6 +5,7 @@ if(myName==='Ahanonu Gift'){
     console.log('This is not me')
 }*/
 for(let count=1;count<13;count++){
-    let result= count*13;
-    console.log(result);
+    let result= count*2;
+    let display= count+" * "+2+" = "+result;
+    console.log(display);
 }
